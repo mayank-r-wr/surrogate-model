@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated article."
+title: "A Surrogate Models for Estimating Daily Infiltration in India"
+authors:
+  - family-names: Raturi
+    given-names: Mayank
+    affiliation: "Indian Institute of Technology Roorkee"
+  - family-names: Patidar
+    given-names: Nitesh
+    affiliation: "National Institute of Hydrology Roorkee"
+  - family-names: Khare
+    given-names: Deepak
+    affiliation: "Indian Institute of Technology Roorkee"
+preferred-citation:
+  type: article
+  title: "A Surrogate Models for Estimating Daily Infiltration in India"
+  journal: "Journal of Hydrology"
+  status: in-review   # update with year/volume/DOI after publication

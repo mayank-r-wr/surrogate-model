@@ -1,0 +1,14 @@
+numpy
+pandas
+xarray
+netCDF4
+scipy
+scikit-learn
+xgboost
+lightgbm
+matplotlib
+seaborn
+geopandas
+shapely
+joblib
+cdsapi
