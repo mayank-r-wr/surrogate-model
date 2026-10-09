@@ -1,0 +1,7 @@
+soil_class,name,Ks,psi,dtheta
+1,Sandy,25,60,0.30
+2,Loamy,12,110,0.30
+3,Clayey,3,210,0.25
+4,Loamy skeletal,10,100,0.25
+5,Clay skeletal,2,220,0.20
+6,Marshy,5,50,0.20
